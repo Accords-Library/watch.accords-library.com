@@ -12,8 +12,10 @@ sh install.sh
 ```
 
 ## YouTube
-Add the videos IDs or URLs to archive in `youtube/batchfile.txt`
-Use the extension `get Cookies.txt` on your Browser to retrieve credentials that yt-dlp can use to bypass age restrictions. Possibly use a burner account.
+Add the videos IDs or URLs to archive in `youtube/batchfile.txt`  
+Use the extension `get Cookies.txt` on your Browser to retrieve credentials that yt-dlp can use to bypass age restrictions.
+Possibly use a burner account.  
+Then place that `cookies.txt` in the `youtube` folder
 Then run
 ```bash
 ./download.sh
