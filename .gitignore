@@ -1,0 +1,7 @@
+public/videos
+node_modules
+ffprobe
+ffmpeg
+cwebp
+youtube/yt-dlp
+youtube/cookies.txt
