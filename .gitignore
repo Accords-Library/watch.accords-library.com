@@ -1,3 +1,4 @@
+.env*
 public/videos
 node_modules
 ffprobe
